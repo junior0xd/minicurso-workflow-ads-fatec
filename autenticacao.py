@@ -7,7 +7,7 @@ print("Tentando autenticar com as seguintes credenciais:")
 print("Username:", username)
 print("Password", password)
 
-if username == 'davi' and password == '123123':
+if username == 'Nilson' and password == '123321':
     print("Autenticação OK")
 else:
     raise Exception("Login e senhas incorretos")
